@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# start apache2 inside docker 
+service apache2 start 
+chmod 600 0-give_me_a_page
+chmod u+x 0-give_me_a_page
+
