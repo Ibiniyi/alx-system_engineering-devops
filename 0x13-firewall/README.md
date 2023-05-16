@@ -1,0 +1,22 @@
+0x13. Firewall
+Firewall (computing)
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+Part of a series on
+Information security
+vectorial version
+Related security categories
+Computer securityAutomotive securityCybercrime Cybersex traffickingComputer fraudCybergeddonCyberterrorismCyberwarfareElectronic warfareInformation warfareInternet securityMobile securityNetwork securityCopy protectionDigital rights management
+Threats
+AdwareAdvanced persistent threatArbitrary code executionBackdoorsHardware backdoorsCode injectionCrimewareCross-site scriptingCryptojacking malwareBotnetsData breachDrive-by downloadBrowser helper objectsVirusesData scrapingDenial of serviceEavesdroppingEmail fraudEmail spoofingExploitsKeyloggersLogic bombsTime bombsFork bombsZip bombsFraudulent dialersMalwarePayloadPhishingPolymorphic enginePrivilege escalationRansomwareRootkitsBootkitsScarewareShellcodeSpammingSocial engineeringScreen scrapingSpywareSoftware bugsTrojan horsesHardware TrojansRemote access trojansVulnerabilityWeb shellsWiperWormsSQL injectionRogue security softwareZombie
+Defenses
+Application security Secure codingSecure by defaultSecure by design Misuse caseComputer access control Authentication Multi-factor authenticationAuthorizationComputer security software Antivirus softwareSecurity-focused operating systemData-centric securityCode obfuscationData maskingEncryptionFirewallIntrusion detection system Host-based intrusion detection system (HIDS)Anomaly detectionSecurity information and event management (SIEM)Mobile secure gatewayRuntime application self-protection
+vte
+In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.[1][2] A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet
