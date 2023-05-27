@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x15. API
 API (Application Program Interface)
 
@@ -6,3 +7,6 @@ WHAT ARE DIFFERENT TYPES OF APIS?
 There are many different types of APIs for operating systems, applications or websites. Windows, for example, has many API sets that are used by system hardware and applications — when you copy and paste text from one application to another, it is the API that allows that to work.
 
 Most operating environments, such as MS-Windows, provide APIs, allowing programmers to write applications consistent with the operating environment. Today, APIs are also specified by websites. For example, Amazon or eBay APIs allow developers to use the existing retail infrastructure to create specialized web stores. Third-party software developers also use Web APIs to create software solutions for end-users.
+=======
+0x15-api`
+>>>>>>> 62443395627131ebd9e8a31f2758e649254097c5
